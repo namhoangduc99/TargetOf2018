@@ -9,5 +9,5 @@ This is my targets for 2018
 - Become a Git master.
 - Finish some cources about general programming theory.
 - Improve English skills.
-- Improve Communication skills.
+- Improve Communication skill and presentation skill.
 - Read at least 20 books about everything.
