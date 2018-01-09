@@ -1,22 +1,22 @@
 # TargetOf2018
 This is my technical targets for 2018
-- Master Linux OS (command line).
-- Java programming (senior level).
-     + Java core (up-to-date knowledge with newest java version).
-     + Multi thread programming in Java.
-     + Spring.
-     + Hibernate.
-- Become a Git master.
-- Finish some courses about general programming theory, algorithm, data structure, database.
-- Improve English skills.
-- Improve Communication skill and presentation skill.
+* [ ] Master Linux OS (command line).
+* [ ] Java programming (senior level).
+     + [ ] Java core (up-to-date knowledge with newest java version).
+     + [ ] Multi thread programming in Java.
+     + [ ] Spring.
+     + [ ] Hibernate.
+* [ ] Become a Git master.
+* [ ] Finish some courses about general programming theory, algorithm, data structure, database.
+* [ ] Improve English skills.
+* [ ] Improve Communication skill and presentation skill.
 
 
 # Target about life:
- - Finish N5 Japanese
- - Read at least 20 books about everything.
- - Travelling Nha Trang(summer), Sapa (first days of the year or last)
- - Raise salary (plus 7M)
- - Car driving licence
- - Saving 100M
+ * [ ] Finish N5 Japanese
+ * [ ] Read at least 20 books about everything.
+ * [ ] Travelling Nha Trang(summer), Sapa (first days of the year or last)
+ * [ ] Raise salary (plus 7M)
+ * [ ] Car driving licence
+ * [ ] Saving 100M
 
