@@ -1,6 +1,6 @@
 # TargetOf2018
 This is my technical targets for 2018
-* [x] Master Linux OS (command line).
+* [ ] Master Linux OS (command line).
 * [ ] Java programming (senior level).
      + [ ] Java core (up-to-date knowledge with newest java version).
      + [ ] Multi thread programming in Java.
