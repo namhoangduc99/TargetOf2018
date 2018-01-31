@@ -7,7 +7,7 @@ Repo: https://github.com/namhoangduc99/Linux
      + [ ] Multi thread programming in Java.
      + [ ] Spring.
      + [ ] Hibernate.
-* [x] Become a Git master.
+* [x] Become a Git master. Repo: https://github.com/namhoangduc99/GitTutor
 * [ ] Finish some courses about general programming theory, algorithm, data structure, database.
 * [ ] Improve English skills.
 * [ ] Improve Communication skill and presentation skill.
