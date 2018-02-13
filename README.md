@@ -3,7 +3,7 @@ This is my technical targets for 2018
 * [x] Master Linux OS (command line).
 Repo: https://github.com/namhoangduc99/Linux
 * [ ] Java programming (senior level).
-     + [ ] Java core (up-to-date knowledge with newest java version).
+     + [ ] Java core (up-to-date knowledge with newest java version) + java 8
      + [ ] Multi thread programming in Java.
      + [ ] Spring.
      + [ ] Hibernate.
