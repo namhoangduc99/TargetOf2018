@@ -5,8 +5,10 @@ Repo: https://github.com/namhoangduc99/Linux
 * [ ] Java programming (senior level).
      + [ ] Java core (up-to-date knowledge with newest java version) + java 8
      + [ ] Multi thread programming in Java.
+     + [ ] Java Concurrency.
      + [ ] Spring.
      + [ ] Hibernate.
+* [ ] Microservice Architecture
 * [x] Become a Git master. Repo: https://github.com/namhoangduc99/GitTutor
 * [ ] Finish some courses about general programming theory, algorithm, data structure, database.
 * [ ] Improve English skills.
