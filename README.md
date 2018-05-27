@@ -10,15 +10,16 @@ Repo: https://github.com/namhoangduc99/Linux
      + [ ] Hibernate.
 * [ ] Microservice Architecture
 * [x] Become a Git master. Repo: https://github.com/namhoangduc99/GitTutor
+* [ ] Docker - a helpful tool
 * [ ] Finish some courses about general programming theory, algorithm, data structure, database.
-* [ ] Improve English skills.
-* [ ] Improve Communication skill and presentation skill.
+* [ ] OCJP certificate 
+* [ ] Take Ielts exam, target 6.5 - Around December 
+* [ ] Improve Communication and Presentation skills.
 
 
 # Target about life:
- * [ ] Finish N5 Japanese
  * [ ] Read at least 20 books about everything.
- * [ ] Travelling Nha Trang(summer), Sapa (first days of the year or last)
+ * [ ] Travelling Da Nang(summer)
  * [ ] Raise salary (plus 7M)
  * [ ] Car driving licence
  * [ ] Saving 100M
