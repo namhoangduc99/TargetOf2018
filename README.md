@@ -6,6 +6,7 @@ Repo: https://github.com/namhoangduc99/Linux
      + [ ] Java core (up-to-date knowledge with newest java version) + java 8
      + [ ] Multi thread programming in Java.
      + [ ] Java Concurrency.
+     + [x] JSP, Servlet core
      + [ ] Spring.
      + [ ] Hibernate.
 * [ ] Microservice Architecture
@@ -19,8 +20,8 @@ Repo: https://github.com/namhoangduc99/Linux
 
 # Target about life:
  * [ ] Read at least 20 books about everything.
- * [ ] Travelling Da Nang(summer)
- * [ ] Raise salary (plus 7M)
+ * [x] Travelling Da Nang(summer)
+ * [x] Raise salary (plus 7M)
  * [ ] Car driving licence
  * [ ] Saving 100M
 
