@@ -6,7 +6,7 @@ Repo: https://github.com/namhoangduc99/Linux
      + [ ] Java core (up-to-date knowledge with newest java version) + java 8
      + [ ] Multi thread programming in Java.
      + [ ] Java Concurrency.
-     + [x] JSP, Servlet core
+     + [x] JSP, Servlet core. Repo: https://github.com/namhoangduc99/Servlet-Core---MVC
      + [ ] Spring.
      + [ ] Hibernate.
 * [ ] Microservice Architecture
