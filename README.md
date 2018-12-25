@@ -11,15 +11,15 @@ Repo: https://github.com/namhoangduc99/Linux
      + [ ] Hibernate.
 * [ ] Microservice Architecture
 * [x] Become a Git master. Repo: https://github.com/namhoangduc99/GitTutor
-* [x ] Docker - a helpful tool
-* [x ] Finish some courses about general programming theory, algorithm, data structure, database.(Servlet core, SQL)
+* [x] Docker - a helpful tool
+* [x] Finish some courses about general programming theory, algorithm, data structure, database.(Servlet core, SQL)
 * [ ] OCJP certificate 
 * [ ] Take Ielts exam, target 6.5 - Around December 
 * [ ] Improve Communication and Presentation skills.
 
 
 # Target about life:
- * [ ] Read at least 20 books about everything.
+ * [x] Read at least 20 books about everything (Bố già)
  * [x] Travelling Da Nang(summer)
  * [x] Raise salary (plus 7M)
  * [ ] Car driving licence
