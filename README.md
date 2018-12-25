@@ -11,8 +11,8 @@ Repo: https://github.com/namhoangduc99/Linux
      + [ ] Hibernate.
 * [ ] Microservice Architecture
 * [x] Become a Git master. Repo: https://github.com/namhoangduc99/GitTutor
-* [ ] Docker - a helpful tool
-* [ ] Finish some courses about general programming theory, algorithm, data structure, database.
+* [x ] Docker - a helpful tool
+* [x ] Finish some courses about general programming theory, algorithm, data structure, database.(Servlet core, SQL)
 * [ ] OCJP certificate 
 * [ ] Take Ielts exam, target 6.5 - Around December 
 * [ ] Improve Communication and Presentation skills.
