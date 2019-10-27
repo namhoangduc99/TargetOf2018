@@ -19,9 +19,9 @@ Repo: https://github.com/namhoangduc99/Linux
 
 
 # Target about life:
- * [x] Read at least 20 books about everything (Bố già)
+ * [x] Read at least 20 books about everything (God father, ...)
  * [x] Travelling Da Nang(summer)
  * [x] Raise salary (plus 7M)
- * [ ] Car driving licence
- * [ ] Saving 100M
+ * [x] Car driving licence
+ * [x] Saving 100M
 
